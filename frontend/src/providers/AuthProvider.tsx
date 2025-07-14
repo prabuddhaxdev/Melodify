@@ -1,5 +1,5 @@
 import { useAuth } from "@clerk/clerk-react";
-import { Disc3, Loader } from "lucide-react";
+import { Disc3} from "lucide-react";
 import { useEffect, useState } from "react";
 import { axiosInstance } from "../lib/axios";
 
